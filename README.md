@@ -29,6 +29,8 @@
     git clone git@github.com:AlexandrBorovkov/image_moderation.git
     ```
 2. **Создайте файл .env (смотри образец .env.example)**
+
+    Впишите ключ который дают после регистрации на https://www.picpurify.com/
 3. **Установка зависимостей**:
     - Создайте и активируйте виртуальное окружение
     ```sh
